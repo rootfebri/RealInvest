@@ -1,0 +1,6 @@
+/.editorconfig
+/.idea
+/.vscode
+/storage/app/public
+/storage/app/temp
+/storage/app/uploads
